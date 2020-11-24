@@ -10,7 +10,7 @@
 ## Visualization Dashboard
 [Visualization Dashboard](https://termproject-255.wm.r.appspot.com)
 
-## Demo Notebook with Model Test
+## Demo Notebook with Neural Network Model Test
 [Demo Notebook using Embeddings + Neural Networks](https://colab.research.google.com/drive/1S5f4kjuCic1TrM65kHfJ0Yr8WiA6QtfE?usp=sharing)
 
 ## Requirements
